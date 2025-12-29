@@ -250,7 +250,8 @@ Please ensure your code:
 
 ## 📚 Resources
 
-- [Google Agent Development Kit Documentation](https://cloud.google.com/adk)
+- [Google AI Platform Documentation](https://cloud.google.com/ai-platform/docs)
+- [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai/docs/agent-builder/introduction)
 - [AgenticAI Concepts](https://cloud.google.com/blog/products/ai-machine-learning)
 - [YAML Specification](https://yaml.org/spec/)
 - [DOM API Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
